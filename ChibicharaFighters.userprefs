@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainGame.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyAi.cs" Line="660" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="41" Column="40" />
+      <File FileName="Assets\Scripts\MainGame.cs" Line="119" Column="1" />
+      <File FileName="Assets\Scripts\Endng.cs" Line="42" Column="1" />
+      <File FileName="Assets\Scripts\FadeInOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelectController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Fighter Pack Bundle FREE\Code\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraAngle.cs" Line="16" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

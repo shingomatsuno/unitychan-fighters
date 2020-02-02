@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: de0952d9c6f68bc47b4bce5b594659c0
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cam_d
+    100002: cmr_Root_Bwall000
+    100004: cmr_Root_floor000
+    100006: cmr_Root_Fwall000
+    100008: crm_baseboards_B000
+    100010: crm_baseboards_F000
+    100012: crm_baseboards_L000
+    100014: crm_baseboards_R000
+    100016: crm_blackboardB
+    100018: crm_blackboardF
+    100020: crm_book
+    100022: crm_ceiling board
+    100024: crm_chalk
+    100026: crm_ChalkboardEraser
+    100028: crm_doorL_b
+    100030: crm_doorL_f
+    100032: crm_doorR_b
+    100034: crm_doorR_f
+    100036: crm_floor
+    100038: crm_lockerA01
+    100040: crm_lockerA02
+    100042: crm_lockerB01
+    100044: crm_lockerB02
+    100046: crm_platform
+    100048: crm_portraitB
+    100050: crm_portraitF
+    100052: crm_Root_ceiling000
+    100054: crm_Root_wallL000
+    100056: crm_Root_wallR000
+    100058: crm_trashcan
+    100060: crm_tv
+    100062: crm_wallB
+    100064: crm_wallL
+    100066: crm_wallR
+    100068: //RootNode
+    100070: rcm_spot00_add
+    100072: rcm_spot01_add
+    100074: rcm_spot02_add
+    100076: rcm_spot03_add
+    100078: rcm_spot04_add
+    100080: rm_beam01_add
+    100082: rm_beam02_add
+    100084: rm_beam03_add
+    100086: rm_beam04_add
+    100088: rm_beam05_add
+    100090: rm_beam06_add
+    100092: rm_beam07_add
+    100094: rm_beam08_add
+    100096: rm_clock
+    100098: rm_wallF
+    100100: crm_ceiling board000
+    100102: crm_ceiling000
+    400000: cam_d
+    400002: cmr_Root_Bwall000
+    400004: cmr_Root_floor000
+    400006: cmr_Root_Fwall000
+    400008: crm_baseboards_B000
+    400010: crm_baseboards_F000
+    400012: crm_baseboards_L000
+    400014: crm_baseboards_R000
+    400016: crm_blackboardB
+    400018: crm_blackboardF
+    400020: crm_book
+    400022: crm_ceiling board
+    400024: crm_chalk
+    400026: crm_ChalkboardEraser
+    400028: crm_doorL_b
+    400030: crm_doorL_f
+    400032: crm_doorR_b
+    400034: crm_doorR_f
+    400036: crm_floor
+    400038: crm_lockerA01
+    400040: crm_lockerA02
+    400042: crm_lockerB01
+    400044: crm_lockerB02
+    400046: crm_platform
+    400048: crm_portraitB
+    400050: crm_portraitF
+    400052: crm_Root_ceiling000
+    400054: crm_Root_wallL000
+    400056: crm_Root_wallR000
+    400058: crm_trashcan
+    400060: crm_tv
+    400062: crm_wallB
+    400064: crm_wallL
+    400066: crm_wallR
+    400068: //RootNode
+    400070: rcm_spot00_add
+    400072: rcm_spot01_add
+    400074: rcm_spot02_add
+    400076: rcm_spot03_add
+    400078: rcm_spot04_add
+    400080: rm_beam01_add
+    400082: rm_beam02_add
+    400084: rm_beam03_add
+    400086: rm_beam04_add
+    400088: rm_beam05_add
+    400090: rm_beam06_add
+    400092: rm_beam07_add
+    400094: rm_beam08_add
+    400096: rm_clock
+    400098: rm_wallF
+    400100: crm_ceiling board000
+    400102: crm_ceiling000
+    2300000: cam_d
+    2300002: crm_baseboards_B000
+    2300004: crm_baseboards_F000
+    2300006: crm_baseboards_L000
+    2300008: crm_baseboards_R000
+    2300010: crm_blackboardB
+    2300012: crm_blackboardF
+    2300014: crm_book
+    2300016: crm_ceiling board
+    2300018: crm_chalk
+    2300020: crm_ChalkboardEraser
+    2300022: crm_doorL_b
+    2300024: crm_doorL_f
+    2300026: crm_doorR_b
+    2300028: crm_doorR_f
+    2300030: crm_floor
+    2300032: crm_lockerA01
+    2300034: crm_lockerA02
+    2300036: crm_lockerB01
+    2300038: crm_lockerB02
+    2300040: crm_platform
+    2300042: crm_portraitB
+    2300044: crm_portraitF
+    2300046: crm_trashcan
+    2300048: crm_tv
+    2300050: crm_wallB
+    2300052: crm_wallL
+    2300054: crm_wallR
+    2300056: rcm_spot00_add
+    2300058: rcm_spot01_add
+    2300060: rcm_spot02_add
+    2300062: rcm_spot03_add
+    2300064: rcm_spot04_add
+    2300066: rm_beam01_add
+    2300068: rm_beam02_add
+    2300070: rm_beam03_add
+    2300072: rm_beam04_add
+    2300074: rm_beam05_add
+    2300076: rm_beam06_add
+    2300078: rm_beam07_add
+    2300080: rm_beam08_add
+    2300082: rm_clock
+    2300084: rm_wallF
+    2300086: crm_ceiling board000
+    2300088: crm_ceiling000
+    3300000: cam_d
+    3300002: crm_baseboards_B000
+    3300004: crm_baseboards_F000
+    3300006: crm_baseboards_L000
+    3300008: crm_baseboards_R000
+    3300010: crm_blackboardB
+    3300012: crm_blackboardF
+    3300014: crm_book
+    3300016: crm_ceiling board
+    3300018: crm_chalk
+    3300020: crm_ChalkboardEraser
+    3300022: crm_doorL_b
+    3300024: crm_doorL_f
+    3300026: crm_doorR_b
+    3300028: crm_doorR_f
+    3300030: crm_floor
+    3300032: crm_lockerA01
+    3300034: crm_lockerA02
+    3300036: crm_lockerB01
+    3300038: crm_lockerB02
+    3300040: crm_platform
+    3300042: crm_portraitB
+    3300044: crm_portraitF
+    3300046: crm_trashcan
+    3300048: crm_tv
+    3300050: crm_wallB
+    3300052: crm_wallL
+    3300054: crm_wallR
+    3300056: rcm_spot00_add
+    3300058: rcm_spot01_add
+    3300060: rcm_spot02_add
+    3300062: rcm_spot03_add
+    3300064: rcm_spot04_add
+    3300066: rm_beam01_add
+    3300068: rm_beam02_add
+    3300070: rm_beam03_add
+    3300072: rm_beam04_add
+    3300074: rm_beam05_add
+    3300076: rm_beam06_add
+    3300078: rm_beam07_add
+    3300080: rm_beam08_add
+    3300082: rm_clock
+    3300084: rm_wallF
+    3300086: crm_ceiling board000
+    3300088: crm_ceiling000
+    4300000: rcm_spot00_add
+    4300002: crm_floor
+    4300004: crm_platform
+    4300006: rcm_spot02_add
+    4300008: rcm_spot01_add
+    4300010: rcm_spot03_add
+    4300012: crm_wallR
+    4300014: crm_doorR_b
+    4300016: crm_doorL_b
+    4300018: crm_doorR_f
+    4300020: crm_doorL_f
+    4300022: crm_baseboards_R000
+    4300024: crm_wallL
+    4300026: crm_baseboards_L000
+    4300028: rm_beam01_add
+    4300030: rm_beam02_add
+    4300032: rm_beam03_add
+    4300034: rm_beam04_add
+    4300036: rm_beam05_add
+    4300038: rm_beam06_add
+    4300040: rm_beam07_add
+    4300042: rm_beam08_add
+    4300044: crm_ceiling board
+    4300046: rcm_spot04_add
+    4300048: crm_tv
+    4300050: cam_d
+    4300052: crm_lockerB01
+    4300054: crm_lockerB02
+    4300056: crm_lockerA01
+    4300058: crm_lockerA02
+    4300060: crm_trashcan
+    4300062: crm_portraitB
+    4300064: crm_baseboards_B000
+    4300066: crm_wallB
+    4300068: crm_blackboardB
+    4300070: crm_book
+    4300072: crm_portraitF
+    4300074: rm_wallF
+    4300076: crm_baseboards_F000
+    4300078: crm_blackboardF
+    4300080: crm_ChalkboardEraser
+    4300082: rm_clock
+    4300084: crm_chalk
+    4300086: crm_ceiling000
+    4300088: crm_ceiling board000
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

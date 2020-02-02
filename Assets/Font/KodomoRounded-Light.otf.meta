@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8bfba6f4d264bb144a390f532fb5459e
+timeCreated: 1510750355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KodomoRounded-Light
+  fontNames:
+  - KodomoRounded-Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
